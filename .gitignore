@@ -1,0 +1,8 @@
+chapter3.txt 
+chapter2.txt 
+newtext.txt
+#You can comment 
+
+
+#*.select all files with this extension
+#such that *.txt every text file will not get commited 
